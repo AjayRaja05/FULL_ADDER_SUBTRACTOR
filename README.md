@@ -1,4 +1,9 @@
-# FULL_ADDER_SUBTRACTOR
+NAME: T.AjayRaja Rathinam
+
+REGISTER NO: 212224240006
+
+
+# FULL ADDER SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
